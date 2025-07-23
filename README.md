@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @letsresource
 - 👀 I’m interested in Technical Recruiting
-- 🌱 I’m currently learning Workday/AI
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Workday & AI
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/aman2828/
 - 😄 Pronouns: Aman
 - ⚡ Fun fact: When you know me
